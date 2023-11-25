@@ -1,0 +1,96 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+:root {
+    --yona-neutral: 200;
+    --yona-wrong: 0;
+    --yona-correct: 145;
+}
+
+body {
+    --yona: var(--yona-neutral);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: hsl(var(--yona), 100%, 20%);
+}
+
+body.correct {
+    --yona: var(--yona-correct);
+    /* background-color: hsl(var(--yona), 100%, 40%); */
+}
+
+body.wrong {
+    --yona: var(--yona-wrong);
+    /* background-color: hsl(var(--yona), 100%, 40%); */
+}
+
+.container {
+    width: 800px;
+    max-width: 80%;
+    background-color: gray;
+    border-radius: 1.25rem;
+    padding: 10px;
+    box-shadow: 0 0 10px 2px;
+}
+
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.btn {
+    --yona: var(--yona-neutral);
+    border: 1px solid hsl(var(--yona), 100%, 30%);
+    background-color: hsl(var(--yona), 100%, 50%);
+    border-radius: 1.25rem;
+    padding: 10px 5px;
+    color: white;
+    outline: none;
+}
+
+.btn:hover {
+    border: 2px solid black;
+}
+
+.btn.correct {
+    --yona: var(--yona-correct);
+}
+
+.btn.wrong {
+    --yona: var(--yona-wrong)
+}
+
+.start-btn,
+.next-btn {
+    font-size: 1.25rem;
+    font-weight: bold;
+    padding: 10px 30px;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hide {
+    display: none;
+}
+
+
+/* what is nue? how to use box-shadow property*/
+
+
+/* remove padding and marign form body,disply grid,gap,box shadow,width=100vw ,in hover
+state you can use  changing border background*/
