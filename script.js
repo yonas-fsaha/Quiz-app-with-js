@@ -109,30 +109,6 @@ const questions = [{
         { text: 'c++', correct: false },
         { text: 'rubi', correct: false }
     ]
-},{
-    question: 'what programming language are you using know?',
-    answers: [
-        { text: '2', correct: true },
-        { text: '4', correct: false },
-        { text: '1', correct: false },
-        { text: '3', correct: false }
-    ]
-},{
-    question: 'what programming language are you using know?',
-    answers: [
-        { text: 'javascript', correct: true },
-        { text: 'python', correct: false },
-        { text: 'c++', correct: false },
-        { text: 'rubi', correct: false }
-    ]
-},{
-    question: 'what programming language are you using know?',
-    answers: [
-        { text: 'javascript', correct: true },
-        { text: 'python', correct: false },
-        { text: 'c++', correct: false },
-        { text: 'rubi', correct: false }
-    ]
 }]
 
 
