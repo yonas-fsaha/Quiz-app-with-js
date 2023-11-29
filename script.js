@@ -86,6 +86,46 @@ const questions = [{
         { text: 'newyork', correct: false }
     ]
 }, {
+    question: 'which one is scripting language?',
+    answers: [
+        { text: 'javascript', correct: true },
+        { text: 'python', correct: false },
+        { text: 'c++', correct: false },
+        { text: 'rubi', correct: false }
+    ]
+},{
+    question: "'OS' computer abbreviation usually means ?",
+    answers: [
+        { text: 'Order of Significance', correct: false },
+        { text: 'Open Software', correct: false },
+        { text: 'Operating System', correct: true },
+        { text: 'Optical Sensor', correct: false }
+    ]
+},{
+    question: 'How many tags are in a regular HTML element?',
+    answers: [
+        { text: 'javascript', correct: true },
+        { text: 'python', correct: false },
+        { text: 'c++', correct: false },
+        { text: 'rubi', correct: false }
+    ]
+},{
+    question: 'what programming language are you using know?',
+    answers: [
+        { text: '2', correct: true },
+        { text: '4', correct: false },
+        { text: '1', correct: false },
+        { text: '3', correct: false }
+    ]
+},{
+    question: 'what programming language are you using know?',
+    answers: [
+        { text: 'javascript', correct: true },
+        { text: 'python', correct: false },
+        { text: 'c++', correct: false },
+        { text: 'rubi', correct: false }
+    ]
+},{
     question: 'what programming language are you using know?',
     answers: [
         { text: 'javascript', correct: true },
