@@ -113,5 +113,4 @@ const questions = [{
 
 
 
-//how to toggle two elements by adding to one and removing to another one in class hide desply none
 //how to use object in js application
