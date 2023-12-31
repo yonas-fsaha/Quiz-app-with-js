@@ -113,4 +113,3 @@ const questions = [{
 
 
 
-//how to use object in js application
