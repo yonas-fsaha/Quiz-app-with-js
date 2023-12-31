@@ -110,6 +110,3 @@ const questions = [{
         { text: 'rubi', correct: false }
     ]
 }]
-
-
-
