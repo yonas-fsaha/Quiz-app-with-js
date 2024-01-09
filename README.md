@@ -23,7 +23,7 @@ Customize the styling by modifying the styles.css file to match your preferences
 
 Enjoy using and sharing your customized quiz app!
 
-Demo
+### Demo
 Check out the live demo here (replace with the link to your hosted demo if applicable).
 
 Screenshots
