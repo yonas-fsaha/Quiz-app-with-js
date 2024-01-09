@@ -12,7 +12,7 @@ Responsive Design: The app is designed to be responsive and can be used on vario
 ## Usage
 Clone the repository to your local machine:
 
-bash
+### bash
 Copy code
 git clone https://github.com/your-username/quiz-app.git
 Open the index.html file in your web browser.
