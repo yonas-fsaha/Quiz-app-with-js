@@ -8,7 +8,8 @@ Instant Feedback: Users receive immediate feedback on their answers, with correc
 Score Tracking: The app keeps track of the user's score throughout the quiz, displaying the final score at the end.
 Customizable: Easily customize the quiz by adding, modifying, or removing questions in the JavaScript code.
 Responsive Design: The app is designed to be responsive and can be used on various devices, including desktops, tablets, and smartphones.
-Usage
+
+## Usage
 Clone the repository to your local machine:
 
 bash
