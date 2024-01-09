@@ -1,4 +1,4 @@
-Quiz App with JavaScript
+#Quiz App with JavaScript
 Description
 Welcome to the Quiz App repository! This project is a simple and interactive quiz application built with JavaScript. It allows users to answer a series of questions and receive instant feedback on their performance. The app is designed to be easy to use and customizable, making it suitable for various quiz scenarios.
 
