@@ -15,14 +15,14 @@ Clone the repository to your local machine:
 ### bash
 
 ### Copy code
-git clone https://github.com/your-username/quiz-app.git
-Open the index.html file in your web browser.
+-git clone https://github.com/your-username/quiz-app.git
+-Open the index.html file in your web browser.
 
-Customize the quiz by modifying the questions.js file. Add your own questions, options, and correct answers.
+-Customize the quiz by modifying the questions.js file. Add your own questions, options, and correct answers.
 
-Customize the styling by modifying the styles.css file to match your preferences.
+-Customize the styling by modifying the styles.css file to match your preferences.
 
-Enjoy using and sharing your customized quiz app!
+-Enjoy using and sharing your customized quiz app!
 
 ### Demo
 Check out the live demo here (replace with the link to your hosted demo if applicable).
