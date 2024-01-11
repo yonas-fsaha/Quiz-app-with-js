@@ -29,7 +29,7 @@ Check out the live demo here (replace with the link to your hosted demo if appli
 
 ### Screenshots
 
-Contributing
+### Contributing
 If you'd like to contribute to this project, please follow the contributing guidelines.
 
 License
