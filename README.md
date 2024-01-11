@@ -35,7 +35,7 @@ If you'd like to contribute to this project, please follow the contributing guid
 ### License
 This project is licensed under the MIT License.
 
-###Acknowledgments
+### Acknowledgments
 The project was inspired by [mention any inspiration or resources here].
 Special thanks to [anyone you want to acknowledge].
 Feel free to explore the code, suggest improvements, and use this quiz app as a foundation for your own projects. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request. Happy quizzing!
