@@ -12,7 +12,6 @@ Responsive Design: The app is designed to be responsive and can be used on vario
 ## Usage
 Clone the repository to your local machine:
 
-### bash
 
 ### Copy code
 -git clone [https://github.com/yonas-fsaha/Quiz-app-with-js.git]
