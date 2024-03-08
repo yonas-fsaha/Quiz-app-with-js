@@ -24,7 +24,6 @@ Clone the repository to your local machine:
 -Enjoy using and sharing your customized quiz app!
 
 ### Demo
-Check out the live demo
 
 
 ### Contributing
