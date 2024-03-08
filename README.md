@@ -23,7 +23,6 @@ Clone the repository to your local machine:
 
 -Enjoy using and sharing your customized quiz app!
 
-### Demo
 
 
 ### Contributing
