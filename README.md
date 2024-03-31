@@ -17,7 +17,7 @@ Clone the repository to your local machine:
 #### git clone [https://github.com/yonas-fsaha/Quiz-app-with-js.git]
 #### Open the index.html file in your web browser.
 
--Customize the quiz by modifying the questions.js file. Add your own questions, options, and correct answers.
+#### Customize the quiz by modifying the questions.js file. Add your own questions, options, and correct answers.
 
 -Customize the styling by modifying the styles.css file to match your preferences.
 
