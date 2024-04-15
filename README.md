@@ -21,7 +21,7 @@ Clone the repository to your local machine:
 
 #### -> Customize the styling by modifying the styles.css file to match your preferences.
 
-#### ->Enjoy using and sharing your customized quiz app!
+#### -> Enjoy using and sharing your customized quiz app!
 
 
 
